@@ -3,9 +3,7 @@
 
 - 🌱 I’m currently learning **Typescript and kotlin**
 
-- 👯 I’m looking to collaborate on **startups projects**
-
-- 👨‍💻 All of my personal projects are free to use
+- 👯 I’m looking to collaborate on **startups projects** or companies that give me the chance to reach experiencie 
 
 - 📫 You can contact me at **fabriziojdn02@gmail.com**
 
