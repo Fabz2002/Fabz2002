@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fabrizio Diaz</h1>
 <h3 align="center">A passionate Web Developer from Perú</h3>
 
-- 🌱 I’m currently learning **Typescript and kotlin**
+- 🌱 I’m currently learning **Typescript and Flutter**
 
 - 👯 I’m looking to collaborate on **startups projects** or companies that give me the chance to reach experiencie 
 
