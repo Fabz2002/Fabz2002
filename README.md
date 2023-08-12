@@ -7,7 +7,7 @@
 
 - 📫 You can contact me at **fabriziojdn02@gmail.com**
 
-- 📄 I am working at a SOCIUS Arquitectura y Plataformas Tecnológicas
+- 📄 I am working at a <a href="https://www.socius.cl/inicio">SOCIUS Arquitectura y Plataformas Tecnológicas<a/>
 
 - ⚡ I'm **crazy football fan(messilover)**
 
