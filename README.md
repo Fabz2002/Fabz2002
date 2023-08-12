@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Typescript and Flutter**
 
-- 👯 I’m looking to collaborate on **startups projects** or companies that give me the chance to reach experiencie 
+- 👯 I’m looking to grow in this Industry
 
 - 📫 You can contact me at **fabriziojdn02@gmail.com**
 
-- 📄 My last experience was on <a href="https://www.ecreea.com/">Ecreea company</a> (startup)
+- 📄 I am working at a SOCIUS Arquitectura y Plataformas Tecnológicas
 
 - ⚡ I'm **crazy football fan(messilover)**
 
