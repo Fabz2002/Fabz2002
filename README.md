@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to grow in this Industry
 
-- 📫 You can contact me at **fabriziojdn02@gmail.com**
+- 📫 You can contact me at **fabriziojdn02@gmail.com** or by Linkedin 
 
 - 📄 I am working at a <a href="https://www.socius.cl/inicio">SOCIUS Arquitectura y Plataformas Tecnológicas<a/>
 
